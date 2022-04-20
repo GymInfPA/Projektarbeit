@@ -3,7 +3,7 @@ Projektarbeit im Rahmen der GymInf-Ausbildung
 
 ## Distributionen
 ### Windows
-Alle Dateien inklusive lauffähige Python-Umgebung mit allen notwendigen Paketen vorinstalliert ist als *.exe Datei [hier](/distribution/anavis_v0_5.exe/) verfügbar.
+Alle Dateien inklusive lauffähige Python-Umgebung mit allen notwendigen Paketen vorinstalliert ist als *.exe Datei [hier](/Windows/anavis_v0_5.exe/) verfügbar.
 
 ### Linux
 Folgende Pakete müssen installiert werden:
@@ -12,4 +12,4 @@ Folgende Pakete müssen installiert werden:
 - seaborn - geteste mit Version 0.11.2
 - pandas - gestetet mit Version 1.4.0
 
-Der Sourcecode des Programms als *.tar.gz ist [hier](/distribution/anavis_v05.tar.gz/) verfügbar.
+Der Sourcecode des Programms als *.tar.gz ist [hier](/Linux/anavis_v05.tar.gz/) verfügbar.
